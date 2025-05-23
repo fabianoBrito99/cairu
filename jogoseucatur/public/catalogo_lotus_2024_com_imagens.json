@@ -23,7 +23,7 @@
       "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
       "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
     },
-    "imagem": "/bike1.png"
+    "imagem": "/Bike01.png"
   },
   {
     "modelo": "29 COM OMBRO EM ALUMÍNIO",
@@ -49,7 +49,7 @@
       "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
       "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
     },
-    "imagem": "/bike2.png"
+    "imagem": "/Bike02.png"
   },
   {
     "modelo": "29 COM OMBRO EM ALUMÍNIO",
@@ -75,9 +75,9 @@
       "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
       "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
     },
-    "imagem": "/bike3.png"
+    "imagem": "/Bike03.png"
   },
-    {
+  {
     "modelo": "29 COM OMBRO EM ALUMÍNIO",
     "codigo": "311848",
     "peso": "14.540kg",
@@ -101,7 +101,7 @@
       "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
       "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
     },
-    "imagem": "/bike4.png"
+    "imagem": "/Bike04.png"
   },
   {
     "modelo": "29 COM OMBRO EM ALUMÍNIO",
@@ -127,9 +127,9 @@
       "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
       "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
     },
-    "imagem": "/bike4.png"
+    "imagem": "/Bike05.png"
   },
-    {
+  {
     "modelo": "29 COM OMBRO EM ALUMÍNIO",
     "codigo": "3118481",
     "peso": "14.540kg",
@@ -153,7 +153,7 @@
       "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
       "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
     },
-    "imagem": "/bike4.png"
+    "imagem": "/Bike06.png"
   },
   {
     "modelo": "29 COM OMBRO EM ALUMÍNIO",
@@ -179,9 +179,165 @@
       "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
       "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
     },
-    "imagem": "/bike1.png"
+    "imagem": "/Bike07.png"
   },
   {
+    "modelo": "29 COM OMBRO EM ALUMÍNIO",
+    "codigo": "322249700",
+    "peso": "14.290kg",
+    "velocidades": "21",
+    "componentes": {
+      "trocador": "SHIMANO CONJUGADA EF-500 7V",
+      "cambio_traseiro": "SHIMANO RD-TY500",
+      "cambio_dianteiro": "SHIMANO FD-TY500",
+      "movimento_central": "SHIMANO SELADO 122.5MM",
+      "pedivela": "SHIMANO FC-TY301 24/34/42",
+      "corrente": "SHIMANO HG-40 7/8 V",
+      "freios": "A DISCO MECÂNICO CXR",
+      "suporte_guidao": "EM ALUMÍNIO 31.8 COM BLOC",
+      "canote": "EM ALUMÍNIO 27.2 X 350 MM",
+      "mesa": "EM ALUMÍNIO 31.8 X 80MM",
+      "guidao": "EM ALUMÍNIO 31.8 X 700MM",
+      "quadro": "29 COM OMBRO EM ALUMÍNIO",
+      "suspensao": "SUSPENSÃO 29' EM AÇO",
+      "aro": "EM ALUMÍNIO 32 FUROS C/ BLOCAGEM",
+      "pneus": "TRAZANO 29 X 2.10 PRETO",
+      "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
+      "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
+    },
+    "imagem": "/Bike08.png"
+  },
+   {
+    "modelo": "29 COM OMBRO EM ALUMÍNIO",
+    "codigo": "322249271",
+    "peso": "14.290kg",
+    "velocidades": "21",
+    "componentes": {
+      "trocador": "SHIMANO CONJUGADA EF-500 7V",
+      "cambio_traseiro": "SHIMANO RD-TY500",
+      "cambio_dianteiro": "SHIMANO FD-TY500",
+      "movimento_central": "SHIMANO SELADO 122.5MM",
+      "pedivela": "SHIMANO FC-TY301 24/34/42",
+      "corrente": "SHIMANO HG-40 7/8 V",
+      "freios": "A DISCO MECÂNICO CXR",
+      "suporte_guidao": "EM ALUMÍNIO 31.8 COM BLOC",
+      "canote": "EM ALUMÍNIO 27.2 X 350 MM",
+      "mesa": "EM ALUMÍNIO 31.8 X 80MM",
+      "guidao": "EM ALUMÍNIO 31.8 X 700MM",
+      "quadro": "29 COM OMBRO EM ALUMÍNIO",
+      "suspensao": "SUSPENSÃO 29' EM AÇO",
+      "aro": "EM ALUMÍNIO 32 FUROS C/ BLOCAGEM",
+      "pneus": "TRAZANO 29 X 2.10 PRETO",
+      "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
+      "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
+    },
+    "imagem": "/Bike09.png"
+  },
+   {
+    "modelo": "29 COM OMBRO EM ALUMÍNIO",
+    "codigo": "322214597",
+    "peso": "14.290kg",
+    "velocidades": "21",
+    "componentes": {
+      "trocador": "SHIMANO CONJUGADA EF-500 7V",
+      "cambio_traseiro": "SHIMANO RD-TY500",
+      "cambio_dianteiro": "SHIMANO FD-TY500",
+      "movimento_central": "SHIMANO SELADO 122.5MM",
+      "pedivela": "SHIMANO FC-TY301 24/34/42",
+      "corrente": "SHIMANO HG-40 7/8 V",
+      "freios": "A DISCO MECÂNICO CXR",
+      "suporte_guidao": "EM ALUMÍNIO 31.8 COM BLOC",
+      "canote": "EM ALUMÍNIO 27.2 X 350 MM",
+      "mesa": "EM ALUMÍNIO 31.8 X 80MM",
+      "guidao": "EM ALUMÍNIO 31.8 X 700MM",
+      "quadro": "29 COM OMBRO EM ALUMÍNIO",
+      "suspensao": "SUSPENSÃO 29' EM AÇO",
+      "aro": "EM ALUMÍNIO 32 FUROS C/ BLOCAGEM",
+      "pneus": "TRAZANO 29 X 2.10 PRETO",
+      "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
+      "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
+    },
+    "imagem": "/Bike10.png"
+  },
+   {
+    "modelo": "29 COM OMBRO EM ALUMÍNIO",
+    "codigo": "3122224967",
+    "peso": "14.290kg",
+    "velocidades": "21",
+    "componentes": {
+      "trocador": "SHIMANO CONJUGADA EF-500 7V",
+      "cambio_traseiro": "SHIMANO RD-TY500",
+      "cambio_dianteiro": "SHIMANO FD-TY500",
+      "movimento_central": "SHIMANO SELADO 122.5MM",
+      "pedivela": "SHIMANO FC-TY301 24/34/42",
+      "corrente": "SHIMANO HG-40 7/8 V",
+      "freios": "A DISCO MECÂNICO CXR",
+      "suporte_guidao": "EM ALUMÍNIO 31.8 COM BLOC",
+      "canote": "EM ALUMÍNIO 27.2 X 350 MM",
+      "mesa": "EM ALUMÍNIO 31.8 X 80MM",
+      "guidao": "EM ALUMÍNIO 31.8 X 700MM",
+      "quadro": "29 COM OMBRO EM ALUMÍNIO",
+      "suspensao": "SUSPENSÃO 29' EM AÇO",
+      "aro": "EM ALUMÍNIO 32 FUROS C/ BLOCAGEM",
+      "pneus": "TRAZANO 29 X 2.10 PRETO",
+      "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
+      "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
+    },
+    "imagem": "/Bike11.png"
+  },
+   {
+    "modelo": "29 COM OMBRO EM ALUMÍNIO",
+    "codigo": "32226497",
+    "peso": "14.290kg",
+    "velocidades": "21",
+    "componentes": {
+      "trocador": "SHIMANO CONJUGADA EF-500 7V",
+      "cambio_traseiro": "SHIMANO RD-TY500",
+      "cambio_dianteiro": "SHIMANO FD-TY500",
+      "movimento_central": "SHIMANO SELADO 122.5MM",
+      "pedivela": "SHIMANO FC-TY301 24/34/42",
+      "corrente": "SHIMANO HG-40 7/8 V",
+      "freios": "A DISCO MECÂNICO CXR",
+      "suporte_guidao": "EM ALUMÍNIO 31.8 COM BLOC",
+      "canote": "EM ALUMÍNIO 27.2 X 350 MM",
+      "mesa": "EM ALUMÍNIO 31.8 X 80MM",
+      "guidao": "EM ALUMÍNIO 31.8 X 700MM",
+      "quadro": "29 COM OMBRO EM ALUMÍNIO",
+      "suspensao": "SUSPENSÃO 29' EM AÇO",
+      "aro": "EM ALUMÍNIO 32 FUROS C/ BLOCAGEM",
+      "pneus": "TRAZANO 29 X 2.10 PRETO",
+      "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
+      "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
+    },
+    "imagem": "/Bike12.png"
+  },
+   {
+    "modelo": "29 COM OMBRO EM ALUMÍNIO",
+    "codigo": "322249709",
+    "peso": "14.290kg",
+    "velocidades": "21",
+    "componentes": {
+      "trocador": "SHIMANO CONJUGADA EF-500 7V",
+      "cambio_traseiro": "SHIMANO RD-TY500",
+      "cambio_dianteiro": "SHIMANO FD-TY500",
+      "movimento_central": "SHIMANO SELADO 122.5MM",
+      "pedivela": "SHIMANO FC-TY301 24/34/42",
+      "corrente": "SHIMANO HG-40 7/8 V",
+      "freios": "A DISCO MECÂNICO CXR",
+      "suporte_guidao": "EM ALUMÍNIO 31.8 COM BLOC",
+      "canote": "EM ALUMÍNIO 27.2 X 350 MM",
+      "mesa": "EM ALUMÍNIO 31.8 X 80MM",
+      "guidao": "EM ALUMÍNIO 31.8 X 700MM",
+      "quadro": "29 COM OMBRO EM ALUMÍNIO",
+      "suspensao": "SUSPENSÃO 29' EM AÇO",
+      "aro": "EM ALUMÍNIO 32 FUROS C/ BLOCAGEM",
+      "pneus": "TRAZANO 29 X 2.10 PRETO",
+      "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
+      "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
+    },
+    "imagem": "/Bike13.png"
+  },
+   {
     "modelo": "29 COM OMBRO EM ALUMÍNIO",
     "codigo": "3222497",
     "peso": "14.290kg",
@@ -205,11 +361,11 @@
       "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
       "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
     },
-    "imagem": "/bike1.png"
+    "imagem": "/Bike14.png"
   },
-  {
+   {
     "modelo": "29 COM OMBRO EM ALUMÍNIO",
-    "codigo": "312498",
+    "codigo": "13222497",
     "peso": "14.290kg",
     "velocidades": "21",
     "componentes": {
@@ -231,6 +387,58 @@
       "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
       "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
     },
-    "imagem": "/bike1.png"
+    "imagem": "/Bike15.png"
+  },
+   {
+    "modelo": "29 COM OMBRO EM ALUMÍNIO",
+    "codigo": "3244422497",
+    "peso": "14.290kg",
+    "velocidades": "21",
+    "componentes": {
+      "trocador": "SHIMANO CONJUGADA EF-500 7V",
+      "cambio_traseiro": "SHIMANO RD-TY500",
+      "cambio_dianteiro": "SHIMANO FD-TY500",
+      "movimento_central": "SHIMANO SELADO 122.5MM",
+      "pedivela": "SHIMANO FC-TY301 24/34/42",
+      "corrente": "SHIMANO HG-40 7/8 V",
+      "freios": "A DISCO MECÂNICO CXR",
+      "suporte_guidao": "EM ALUMÍNIO 31.8 COM BLOC",
+      "canote": "EM ALUMÍNIO 27.2 X 350 MM",
+      "mesa": "EM ALUMÍNIO 31.8 X 80MM",
+      "guidao": "EM ALUMÍNIO 31.8 X 700MM",
+      "quadro": "29 COM OMBRO EM ALUMÍNIO",
+      "suspensao": "SUSPENSÃO 29' EM AÇO",
+      "aro": "EM ALUMÍNIO 32 FUROS C/ BLOCAGEM",
+      "pneus": "TRAZANO 29 X 2.10 PRETO",
+      "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
+      "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
+    },
+    "imagem": "/Bike16.png"
+  },
+  {
+    "modelo": "29 COM OMBRO EM ALUMÍNIO",
+    "codigo": "31243928",
+    "peso": "14.290kg",
+    "velocidades": "21",
+    "componentes": {
+      "trocador": "SHIMANO CONJUGADA EF-500 7V",
+      "cambio_traseiro": "SHIMANO RD-TY500",
+      "cambio_dianteiro": "SHIMANO FD-TY500",
+      "movimento_central": "SHIMANO SELADO 122.5MM",
+      "pedivela": "SHIMANO FC-TY301 24/34/42",
+      "corrente": "SHIMANO HG-40 7/8 V",
+      "freios": "A DISCO MECÂNICO CXR",
+      "suporte_guidao": "EM ALUMÍNIO 31.8 COM BLOC",
+      "canote": "EM ALUMÍNIO 27.2 X 350 MM",
+      "mesa": "EM ALUMÍNIO 31.8 X 80MM",
+      "guidao": "EM ALUMÍNIO 31.8 X 700MM",
+      "quadro": "29 COM OMBRO EM ALUMÍNIO",
+      "suspensao": "SUSPENSÃO 29' EM AÇO",
+      "aro": "EM ALUMÍNIO 32 FUROS C/ BLOCAGEM",
+      "pneus": "TRAZANO 29 X 2.10 PRETO",
+      "camara": "29 X 1.90/2.35 V. PRESTA 48MM",
+      "cassete_roda_livre": "SHIMANO TZ500 14X34 7VRODA LIVRE"
+    },
+    "imagem": "/Bike09.png"
   }
 ]

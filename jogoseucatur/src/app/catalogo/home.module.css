@@ -76,41 +76,29 @@ bottom: -10px;
 }
 .logoArea {
   position: absolute;
- bottom: 0;
-  z-index: 2;
-  background: #0453fc;
+  bottom: -20px;
+  z-index: 20;
+  left: -20px;
   padding: 10px;
   width: 100vw;
 }
 
-.bikes {
-  position: absolute;
-  bottom: 140px;
-  display: flex;
-  gap: 0px;
-  justify-content: center;
-  animation: moverBikes 20s linear infinite;
+.topo{
+  position: fixed;
+  top: 10px;
 }
 
-@keyframes moverBikes {
-  0% {
-    transform: translateX(0%);
-  }
-  100% {
-    transform: translateX(50%);
+.animeLeft {
+  opacity: 0;
+  transform: translateY(-350px);
+  animation: animeLeft 0.9s forwards;
+}
+
+@keyframes animeLeft {
+  to {
+    opacity: 1;
+    transform: initial;
   }
 }
 
-.merece {
-  position: absolute;
-  background: #000;
-  color: white;
-  font-weight: bold;
-  padding: 10px 70px;
-  left: 145px;
-  top: 140px;    
-  line-height: 1;         
-  border-radius: 2px;    
-  font-size: 2rem; 
-  z-index: 1;     
-}
+

@@ -32,7 +32,8 @@ export default function Catalogo() {
   const irParaEscolha = () => router.push("/escolha");
 
   return (
-    <div className={styles.container}>
+    
+    <div className={`${styles.container} ${styles.animeLeft}`}>
       <video
         className={styles.videoFundo}
         src="/video2.mp4"
@@ -42,9 +43,17 @@ export default function Catalogo() {
         playsInline
       />
       <div className={styles.overlay}></div>
-
-      <h1 className={styles.titulo}>BICICLETAS</h1>
-      <div className={styles.fundo}></div>
+      <div className={styles.fundo3}>
+        <div className={styles.fundo2}>
+          <Image
+            src="/2.png"
+            alt="bicicletas"
+            width={420}
+            height={300}
+            priority
+          />
+        </div>
+      </div>
 
       <div className={styles.navContainer}>
         <button className={styles.navButton} onClick={irParaEscolha}>
@@ -54,7 +63,6 @@ export default function Catalogo() {
           <FaHome size={20} color="#0050c8" />
         </button>
       </div>
-
 
       <div className={styles.fundoBranco}>
         <div className={styles.scrollContainer}>

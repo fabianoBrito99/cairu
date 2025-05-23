@@ -21,7 +21,7 @@ export default function Escolha() {
   };
 
   return (
-    <div className={styles.container}>
+    <div className={`${styles.container}  ${styles.animeLeft}`}>
       <div className={styles.logoArea}>
         <Image
           src="/ciclo2.png"
